@@ -1,4 +1,4 @@
-# sistemas-distribuidos-21-10---aula-7
+# Sistemas-Distribuídos-21-10-aula-7
 
 # Relógios Vetoriais e Causalidade
 
